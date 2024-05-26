@@ -24,7 +24,7 @@ main {
       to bottom,
       rgb(0 0 0 / 50%),
       rgb(0 0 0/ 50%)
-    ),url("./top.jpg");
+    ),url("./assets/top.jpg");
 }
 #middle{
 
@@ -32,7 +32,7 @@ main {
       to bottom,
       rgb(0 0 0 / 50%),
       rgb(0 0 0/ 50%)
-    ),url("./middle.jpg");
+    ),url("./assets/middle.jpg");
 }
 #bottom{
 
@@ -40,7 +40,7 @@ main {
       to bottom,
       rgb(0 0 0 / 50%),
       rgb(0 0 0/ 50%)
-    ),url("./bottom.jpg");
+    ),url("./assets/bottom.jpg");
 }
 
 .headline{
